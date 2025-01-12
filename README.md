@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @moonlightaliza
 - 👀 I’m interested in coding, things which stimulate my creative mind, astronomy and listening to music
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning SQL, Excel and Python for Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have been a kpop fan since 2018
 
 <!---
